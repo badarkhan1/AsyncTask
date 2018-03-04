@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="image_url">Image URL</string>
+    <string name="download_image">Download Image</string>
+
+    //String Arrays
+    <string-array name="urls">
+        <item>Image 1</item>
+    </string-array>
+
+    <string-array name="imgurls">
+        <item>https://media.ed.edmunds-media.com/toyota/camry/2018/oem/2018_toyota_camry_sedan_xle_fq_oem_1_717.jpg</item>
+    </string-array>
+
+</resources>
